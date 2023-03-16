@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-03-17
 type: landing
 
 sections:
@@ -16,13 +16,13 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Фортепиано
+          description: 80%
+          icon: music
+          icon_pack: fas
+        - name: Вождение
+          description: 70%
+          icon: сar
           icon_pack: fas
         - name: Photography
           description: 10%
