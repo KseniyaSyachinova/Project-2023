@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Сячинова Ксения Ивановна
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ксения
+last_name: Сячинова
 
 # Status emoji
 status:
@@ -14,34 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский Университет Дружбы Народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Всем привет! Меня зовут Ксения и мне 20 лет. Всю свою ижзнь прожила в маленьком городе Лебедянь. Но сейчас переехала в Москву и являюсь студентом РУДН. Моя специальность - 'Математика и механика'. Данное направление оказалось интересным для меня, так как я всегда любила математику за её логику.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Музыка и игра на музыкальных инструментах
+  - Решение интегралов
+  - Кулинария
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Математика и механика
+      institution: РУДН
+      year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +68,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'KseniyaZ.ru@yandex.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Всем привет! Меня зовут Ксения и мне 20 лет. Всю свою ижзнь прожила в маленьком городе Лебедянь. Но сейчас переехала в Москву и являюсь студентом РУДН. Моя специальность - "Математика и механика". Данное направление оказалось интересным для меня, так как я всегда любила математику за её логику.
 {style="text-align: justify;"}
+

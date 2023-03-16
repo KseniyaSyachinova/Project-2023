@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:KseniyaSyachinova/KseniyaSyachinova.github.io.git
+	branch = main
