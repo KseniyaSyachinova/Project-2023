@@ -44,28 +44,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: 'https://mail.yandex.ru/?uid=314501120#message/182114309931816581'
+    label: My Email
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: vk
+    icon_pack: fab
+    link: https://vk.com/id258200008
+    label: Follow me on Vk
+    display:
+      header: true
+  - icon: telegram
+    icon_pack: fab
+    link: https://web.telegram.org/k/#@ks_syachinova
+    label: Follow me on Telegram
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/KseniyaSyachinova
+    label: My GitHub
+    display:
+      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'KseniyaZ.ru@yandex.ru'
@@ -73,6 +73,6 @@ email: 'KseniyaZ.ru@yandex.ru'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Всем привет! Меня зовут Ксения и мне 20 лет. Всю свою ижзнь прожила в маленьком городе Лебедянь. Но сейчас переехала в Москву и являюсь студентом РУДН. Моя специальность - "Математика и механика". Данное направление оказалось интересным для меня, так как я всегда любила математику за её логику.
+Всем привет! Меня зовут Ксения и мне 20 лет. Всю свою ижзнь прожила в маленьком городе Лебедянь. Но сейчас переехала в Москву и являюсь студентом РУДН. Моя специальность - "Математика и механика". Данное направление оказалось интересным для меня, так как я всегда любила математику и мне хочется изучать её дальше. Как любят говорить: "Математика - царица наук!"
 {style="text-align: justify;"}
 
