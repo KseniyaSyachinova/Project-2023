@@ -1,9 +1,9 @@
 ---
-title: Оформление отчёта
+title: Леди Баг и Супер Кот!!!!
 subtitle: 
 
 # Summary for listings and search engines
-summary: Правильное оформление отчёта.
+summary: Прекрасный мультик!!!
 
 # Link this post with a project
 projects: []
