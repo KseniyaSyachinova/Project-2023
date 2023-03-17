@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-03-17
+date: 2022-10-24
 type: landing
 
 sections:
@@ -22,10 +22,10 @@ sections:
           icon_pack: fas
         - name: Вождение
           description: 70%
-          icon: сar
+          icon: car
           icon_pack: fas
         - name: Photography
-          description: 10%
+          description: 50%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Московский Международный Дом Музыки
+          company: АРТЕСС
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Москва
+          date_start: '2022-10-08'
+          date_end: '2022-12-28'
           description: |2-
-              Responsibilities include:
+              Мои итветсвенности:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Встреча и навигация гостей
+              * Проверка и приём билетов
+              * Продажа программ
+              * Ответы по репертуару
+
+        - title: Индивидуальный проект по теме "Грозит ли Земле перенаселение?" 
+          company: МБОУ Гимназия №1 им. Н.И. Борцова
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Лебедянь
+          date_start: '2020-09-01'
+          date_end: '2021-05-01'
+          description: Изучение пробелмы переселения Земли
     design:
       columns: '2'
   - block: accomplishments
@@ -76,29 +78,31 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: 
+          date_end: '2020-03-01'
+          date_start: '2019-09-01'
+          description: 'Победитель муниципального этапа всероссийской олимпиады школьников по английскому в 2019 году'
+          organization: Лебедянский район
+          organization_url: 
+          title: Олимпиада по английскому языку
           url: ''
-        - certificate_url: https://www.edx.org
+          
+        - certificate_url: 
+          date_end: '2021-03-01'
+          date_start: '2020-09-01'
+          description:  Победитель муниципального этапа всероссийской олимпиады школьников математике в 2020 году
+          organization: Лебедянский район
+          organization_url: 
+          title: Олимпиада по математике
+          url: 
+          
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2016-09-01'
+          description: 'Получение третьго юношеского разряда по плаванию'
+          organization: Спортивный оздоравительный комплекс
+          organization_url: 
+          title: 'Третий юношский разряд'
           url: ''
     design:
       columns: '2'
