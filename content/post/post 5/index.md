@@ -1,5 +1,5 @@
 ---
-title: Самая крутая бургерная!
+title:  Самая крутая бургерная!
 subtitle: 
 
 # Summary for listings and search engines

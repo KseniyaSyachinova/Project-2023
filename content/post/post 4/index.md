@@ -3,7 +3,7 @@ title: Язык разметки Markdown.
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: Полезная информация!
 
 # Link this post with a project
 projects: []
