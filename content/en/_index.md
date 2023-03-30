@@ -16,11 +16,11 @@ sections:
     content:
       title: Skills
       items:
-        - name: Фортепиано
+        - name: Playing the piano
           description: 80%
           icon: music
           icon_pack: fas
-        - name: Вождение
+        - name: Driving
           description: 70%
           icon: car
           icon_pack: fas
@@ -40,29 +40,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Московский Международный Дом Музыки
-          company: АРТЕСС
+        - title: Moscow International Music House
+          company: ARTESS
           company_url: ''
           company_logo: org-gc
-          location: Москва
+          location: Moscow
           date_start: '2022-10-08'
           date_end: '2022-12-28'
           description: |2-
-              Мои итветсвенности:
+              My responsibilities:
 
-              * Встреча и навигация гостей
-              * Проверка и приём билетов
-              * Продажа программ
-              * Ответы по репертуару
+              * Checking and accepting tickets
+              * Meeting and navigation of guests
+              * Sale of programs
+              * Answers by repertoire
 
-        - title: Индивидуальный проект по теме "Грозит ли Земле перенаселение?" 
-          company: МБОУ Гимназия №1 им. Н.И. Борцова
+        - title: Individual project on the topic "Is overpopulation threatening the Earth?"
+          company: MBOU Gymnasium No. 1 named after N.I. Bortsov
           company_url: ''
           company_logo: org-x
           location: Лебедянь
           date_start: '2020-09-01'
           date_end: '2021-05-01'
-          description: Изучение пробелмы переселения Земли
+          description: Study of the problem of land resettlement
     design:
       columns: '2'
   - block: accomplishments
@@ -81,28 +81,28 @@ sections:
         - certificate_url: 
           date_end: '2020-03-01'
           date_start: '2019-09-01'
-          description: 'Победитель муниципального этапа всероссийской олимпиады школьников по английскому в 2019 году'
-          organization: Лебедянский район
+          description: Winner of the municipal stage of the All-Russian Olympiad of schoolchildren in English in 2019'
+          organization: Lebedyansky district
           organization_url: 
-          title: Олимпиада по английскому языку
+          title: English Language Olympiad
           url: ''
           
         - certificate_url: 
           date_end: '2021-03-01'
           date_start: '2020-09-01'
-          description:  Победитель муниципального этапа всероссийской олимпиады школьников математике в 2020 году
-          organization: Лебедянский район
+          description:  Winner of the municipal stage of the All-Russian Olympiad of schoolchildren in Maths in 2020'
+          organization: Lebedyansky district
           organization_url: 
-          title: Олимпиада по математике
+          title: Math Olympiad
           url: 
           
         - certificate_url: 
           date_end: ''
           date_start: '2016-09-01'
-          description: 'Получение третьго юношеского разряда по плаванию'
-          organization: Спортивный оздоравительный комплекс
+          description: 'Obtaining the third junior category in swimming'
+          organization: Sports and wellness complex
           organization_url: 
-          title: 'Третий юношский разряд'
+          title: 'Third junior category'
           url: ''
     design:
       columns: '2'
