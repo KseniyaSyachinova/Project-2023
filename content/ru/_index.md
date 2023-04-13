@@ -14,7 +14,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Навыки
       items:
         - name: Фортепиано
           description: 80%
@@ -30,7 +30,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Опыт
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -65,7 +65,7 @@ sections:
           description: Изучение пробелмы переселения Земли
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Достижения
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -136,7 +136,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Проект
       filters:
         folders:
           - project
